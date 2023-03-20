@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/danzprogdanz/static/css/main.177db39d.css",
+    "main.js": "/danzprogdanz/static/js/main.1efd1d04.js",
+    "static/media/cv.pdf": "/danzprogdanz/static/media/cv.37157f1dcbee6194d2bb.pdf",
+    "static/media/music.png": "/danzprogdanz/static/media/music.e758b26d6b96681d9843.png",
+    "static/media/2028940.jpg": "/danzprogdanz/static/media/2028940.339a7d9529841523a9c9.jpg",
+    "static/media/Stars.png": "/danzprogdanz/static/media/Stars.93a9111f39872a13006c.png",
+    "static/media/todo.png": "/danzprogdanz/static/media/todo.9cc75127c4b6671b4fa4.png",
+    "static/media/chat.png": "/danzprogdanz/static/media/chat.87c4c6052b5603d9f758.png",
+    "index.html": "/danzprogdanz/index.html",
+    "main.177db39d.css.map": "/danzprogdanz/static/css/main.177db39d.css.map",
+    "main.1efd1d04.js.map": "/danzprogdanz/static/js/main.1efd1d04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.177db39d.css",
+    "static/js/main.1efd1d04.js"
+  ]
+}
