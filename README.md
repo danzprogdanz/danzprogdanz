@@ -1,11 +1,14 @@
 
 <h1 align='center'>
-  Olá [:  Sou Daniel Viana</a> 👨🏻‍💻
+  <br />
+  Olá [:  Sou Daniel Viana</a> 👨🏻‍💻<br />
+  <br />
 </h1>
 <p align='left'>
   💻 | Aprimorando minhas habilidades no desenvolvimento web (:<br />
   🏠 | Fortaleza - CE 🔄 Campina Grande - PB<br />
   📚 | Análise e Desenvolvimento de Sistemas<br />
+  <br />
 </p>
 
 ---
